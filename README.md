@@ -2,7 +2,7 @@
 
 
 ## Data & Program Flow
-Document the data and program flow for your API, including the mapping of Routes and Functions, as well as the flow of data.
+Flow can be seen in UML. In my perspective I was able to understand, witness, and predict the flow of data that persisted throughout importing the zipped files, creating the methods, testing the functionality, as well as formulating communications that track how and where data is going. Progress logs below document progression in lab as well.
 
 ### What is the root URL to your API?
 - Unable to configure root URL, here's images from progress:
