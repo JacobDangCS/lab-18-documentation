@@ -8,6 +8,7 @@ Flow can be seen in UML. In my perspective I was able to understand, witness, an
 - Unable to configure root URL, here's images from progress:
 [GET&CREATE](./assets/image1.png)
 [PUT&DELETE](./assets/image2.png)
+- Update: [ROOTURL](https://k8ooxf2jge.execute-api.us-west-2.amazonaws.com/Production)
 
 ### What are the routes?
 - Routes include: 
